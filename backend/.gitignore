@@ -1,0 +1,61 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Logs
+logs/
+*.log
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Build directories
+dist/
+build/
+.next/
+out/
+
+# Environment Variables
+.env
+.env.local
+.env.*.local
+
+# Cache and Output
+.cache/
+.nyc_output/
+coverage/
+*.cache
+*.temp
+
+# Editor Directories and Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
+*.swn
+*.bak
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.log
+*.bak
+*.orig
+
+# Deployment and dependencies
+*.gz
+*.zip
+
+# Cloudinary uploads
+uploads/
+public/uploads/
+
+# Stripe keys or logs
+stripe_logs/
